@@ -27,14 +27,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajathkotyal&layout=compact&langs_count=4)
 
 ### :coffee: Hit Me Up Here
-<p align="center">
+<p align="left">
+	<a href="https://www.linkedin.com/in/rajathkotyal/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
 	<a href="https://github.com/rajathkotyal" alt="Github" title="github">
        <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
     </a>
     <a href="https://github.com/rajathkotyal/rajathkotyal" alt="Github Stars" title="Star Mark Repo">
         <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
     </a>
-    <a href="https://www.linkedin.com/in/rajathkotyal/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
+    
 </p>
