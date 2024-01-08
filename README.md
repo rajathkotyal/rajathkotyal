@@ -23,9 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>  
 
-### 📈 Github Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajathkotyal&layout=compact&langs_count=6)
-
 ### :coffee: Hit Me Up Here
 <p align="left">
 	<a href="https://www.linkedin.com/in/rajathkotyal/">
