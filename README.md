@@ -13,9 +13,8 @@
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
-
-  <img src=["https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"](https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png) title="GRPC" alt="GRPC" width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg](https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png)"  title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="GRPC" alt="GRPC" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png"  title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -24,11 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>  
 
-### :fire: Streaks 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajathkotyal)](https://git.io/streak-stats)  
-
-### 📈 Github Stats (Amongst top 50%)
-![GitHub Stats ](https://github-readme-stats.vercel.app/api?username=rajathkotyal&show_icons=true&hide=issues,prs)
+### 📈 Github Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajathkotyal&layout=compact&langs_count=4)
 
 ### :coffee: Hit Me Up Here
