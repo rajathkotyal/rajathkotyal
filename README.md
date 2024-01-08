@@ -35,6 +35,6 @@
         <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
     </a>
     <a href="https://www.linkedin.com/in/rajathkotyal/">
-        <img src="https://img.shields.io/badge/Linkedin?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </p>
