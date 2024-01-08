@@ -4,7 +4,7 @@
 - 👩🏻‍💻 Pronouns: He/Him
 - 💼 I’m currently a graduate student studying <strong>Information Technology & Computer Science</strong> at [Carnegie Mellon University](cmu.edu).
 - 📋 I've previously worked as a Backend Product Developer at [BMC Software](bmc.com)
-- 🎒 I've done virtual experiences / internships at JP Morgan Chase and Accenture in software engineering and management consulting.
+- 🎒 I've done virtual experiences / internships at JP Morgan Chase and Accenture in software engineering and management.
 - 👔I also co-founded a textile company in 2019 [Peekaboo Minimals](www.instagram.com/peekaboo_minimals)
 - 🧑🏽‍🏫 I love teaching students and am currently working as a Teaching Assistant at Carnegie Mellon University.
 - 🧭 I love exploring and working both in frontend and backend.
