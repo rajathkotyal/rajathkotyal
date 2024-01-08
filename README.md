@@ -24,7 +24,7 @@
 </div>  
 
 ### 📈 Github Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajathkotyal&layout=compact&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajathkotyal&layout=compact&langs_count=6)
 
 ### :coffee: Hit Me Up Here
 <p align="left">
