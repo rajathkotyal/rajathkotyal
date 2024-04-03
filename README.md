@@ -2,7 +2,7 @@
 
 ### :man_technologist: About Me 
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 I’m currently a graduate student studying <strong>Information Technology & Computer Science</strong> at [Carnegie Mellon University](cmu.edu).
+- 💼 I’m currently a graduate student studying <strong>Information Technology</strong> at [Carnegie Mellon University](cmu.edu).
 - 📋 I've previously worked as a Backend Product Developer at [BMC Software](bmc.com)
 - 🧭 I love exploring backend technologies and distributed systems.
 - 🎒 I've done virtual experiences at JP Morgan Chase and Accenture in software engineering and management.
