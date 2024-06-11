@@ -2,9 +2,10 @@
 
 ### :man_technologist: About Me 
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 I’m currently a graduate student studying <strong>Information Technology</strong> at [Carnegie Mellon University](cmu.edu).
+- 💼 I’m currently a graduate student studying <strong>Information Technology & Computer Science</strong> at [Carnegie Mellon University](cmu.edu).
 - 📋 I've previously worked as a Backend Product Developer at [BMC Software](bmc.com)
-- 🧭 I love exploring Web3 technologies, distributed systems & Machine learning.
+- 🌐 Opensource Contributor - 9K + Downloads [![Downloads](https://static.pepy.tech/badge/riskybusiness)](https://pepy.tech/project/riskybusiness)
+- 🧭 I love exploring Distributed Systems, Machine Learning & Cloud Computing.
 - 🎒 I've done virtual experiences at JP Morgan Chase and Accenture in software engineering and management.
 - 👔I also co-founded a textile company in 2019 [Peekaboo Minimals](www.instagram.com/peekaboo_minimals)
 - 🧑🏽‍🏫 I love teaching and am currently working as a Teaching Assistant at Carnegie Mellon University.
