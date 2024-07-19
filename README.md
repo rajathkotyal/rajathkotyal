@@ -2,11 +2,11 @@
 
 ### :man_technologist: About Me 
 - 👩🏻‍💻 Pronouns: He/Him
-- 🎓 I’m currently a graduate student studying <strong>Information Technology & Computer Science</strong> at [Carnegie Mellon University](cmu.edu).
-- 💼 I'm working as a Research Intern at TEEL Labs in Pittsurgh, PA, USA.
+- 🎓 I’m currently a graduate student studying <strong>Information Technology (Computer Science Domain)</strong> at [Carnegie Mellon University](cmu.edu).
+- 💼 I work as a Research Intern at TEEL Labs in Pittsurgh, PA, USA.
 - 📋 I previously worked as a Backend Product Developer at [BMC Software](bmc.com)
 - 🌐 Opensource Contributor - 10K + Downloads [![Downloads](https://static.pepy.tech/badge/riskybusiness)](https://pepy.tech/project/riskybusiness)
-- 🧭 I like exploring and contributing to Deep Learning, Distributed Systems, ML & Cloud Computing projects.
+- 🧭 Like exploring and contributing to Deep Learning, Distributed Systems, ML & Cloud Computing projects.
 - 🎒 I've done virtual experiences at JP Morgan Chase and Accenture in software engineering and management.
 - 🎭 I like to play lawn tennis, play the piano, and hang out with people.
 - 📫 How to reach me: Check social links below.
