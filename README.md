@@ -1,9 +1,11 @@
 <h1 align="center"> Hey there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Rajath Kotyal</h1>
 
 ### :man_technologist: About Me 
+- Brief : Software Developer, 2+ years experience, Masters Student, Looking for full time roles starting Dec 2024.
 - 👩🏻‍💻 Pronouns: He/Him
-- 🎓 I’m currently a graduate student studying <strong>Information Technology (Computer Science Domain)</strong> at [Carnegie Mellon University](cmu.edu).
-- 💼 I work as a Research Intern at TEEL Labs in Pittsurgh, PA, USA.
+- 🎓 Masters student (Graduating Dec 2024) studying <strong>Computer and Information Systems</strong> at [Carnegie Mellon University](cmu.edu).
+- 💻 Currently working with Amazon for my Practicum Project - Rust Kani Team at Sunnnyvale, CA, USA.
+- 💼 Did my summer internship at TEEL Labs in Pittsurgh, PA, USA.
 - 📋 I previously worked as a Backend Product Developer at [BMC Software](bmc.com)
 - 🌐 Opensource Contributor - 10K + Downloads [![Downloads](https://static.pepy.tech/badge/riskybusiness)](https://pepy.tech/project/riskybusiness)
 - 🧭 Like exploring and contributing to Deep Learning, Distributed Systems, ML & Cloud Computing projects.
