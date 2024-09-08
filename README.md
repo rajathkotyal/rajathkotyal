@@ -4,7 +4,7 @@
 - Brief : Software Developer, 2+ years experience, Masters Student, Looking for full time roles starting Dec 2024, Region : US.
 - 👩🏻‍💻 Pronouns: He/Him
 - 🎓 Masters student (Graduating Dec 2024) studying <strong>Computer and Information Systems</strong> at [Carnegie Mellon University](cmu.edu).
-- 💻 Currently working with Amazon for my Practicum Project - Rust Kani Team at Sunnnyvale, CA, USA.
+- 💻 Currently working with <strong>Amazon</strong> for my Practicum Project - Rust Kani Team at Sunnnyvale, CA, USA.
 - 💼 Did my summer internship at TEEL Labs in Pittsurgh, PA, USA.
 - 📋 I previously worked as a Backend Product Developer at [BMC Software](bmc.com)
 - 🌐 Opensource Contributor - 10K + Downloads [![Downloads](https://static.pepy.tech/badge/riskybusiness)](https://pepy.tech/project/riskybusiness)
